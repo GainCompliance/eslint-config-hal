@@ -1,7 +1,8 @@
 # eslint-config-hal
 
 Shareable config for [ESLint](https://eslint.org/) for producers and consumers
-of [HAL](http://stateless.co/hal_specification.html) APIs
+of [HAL](http://stateless.co/hal_specification.html) APIs, which extends
+[@form8ion/eslint-config-hal](https://github.com/form8ion/eslint-config-hal)
 
 <!-- status badges -->
 [![Build Status][ci-badge]][ci-link]
