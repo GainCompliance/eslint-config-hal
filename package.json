@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@gaincompliance/eslint-config": "1.0.30",
-    "@gaincompliance/remark-preset-lint": "^1.0.2",
+    "@gaincompliance/remark-preset-lint": "^1.0.5",
     "ban-sensitive-files": "^1.9.2",
     "commitlint-config-gain": "^1.0.17",
     "cz-conventional-changelog": "^3.0.2",
