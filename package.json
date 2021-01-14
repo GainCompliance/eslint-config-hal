@@ -31,7 +31,5 @@
     "remark-cli": "^9.0.0",
     "travis-lint": "^1.0.0"
   },
-  "dependencies": {
-    "@form8ion/eslint-config-hal": "1.0.0"
-  }
+  "dependencies": {}
 }

@@ -1,1 +1,8 @@
-module.exports = {extends: '@form8ion/hal'};
+module.exports = {
+  rules: {
+    'no-underscore-dangle': [
+      'error',
+      {allow: ['_links', '_embedded']}
+    ]
+  }
+};
