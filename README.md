@@ -1,3 +1,7 @@
+# DEPRECATED 
+## please use `@gaincompliance/eslint-config/hal` in the `GainCompliance/eslint-config` repo
+
+
 # eslint-config-hal
 
 Shareable config for [ESLint](https://eslint.org/) for producers and consumers
